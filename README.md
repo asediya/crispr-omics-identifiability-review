@@ -78,6 +78,8 @@ The Norman et al. (2019) combinatorial Perturb-seq dataset is **public and large
 - **Illustrative, not primary research.** The vignettes calibrate the framework; they are not a comprehensive method benchmark.
 - The Norman 2019 reproduction is run **on the Norman 2019 dataset only** — it is not a multi-dataset or "whole-corpus" benchmark.
 - **Exploratory studies (H, H2, I, J)** back the exploratory supplementary panels and are offered as illustration, not validated methods, exactly as stated in the paper.
+- **The identifiability atlas is regenerable, not shipped.** The exploratory oracle panel (Supplementary Fig S1e, "≈87,000 algorithm runs") is built from Study H's atlas `study_H_atlas.json`, which is large and intentionally excluded (see `.gitignore`). Regenerate it with `python study_H_identifiability_atlas.py`, then `python study_H2_oracle.py`; the deposited `study_H2_oracle.json` is its downstream summary.
+- **Main Figure 2 is an illustrative schematic** of a single network instance (hand-composed); the quantitative, multi-seed version of that analysis is Supplementary Fig S1, produced by Study A.
 - **Not run for this paper (`unrun_scaffolds/`).** `study_K_*` was executed on the Norman 2019 dataset only; `study_L_*`'s foundation-model arm was never run (it needs a GPU and an unimplemented `foundation_predict()`). Their machine-written result JSONs are intentionally **omitted** so they cannot misrepresent scope. **No conclusion in the manuscript depends on Study K or L.**
 
 ## Citation

@@ -31,10 +31,10 @@ This repository accompanies a **methods review**, not a primary benchmarking stu
 | Study | Script | Backs in the paper | Status |
 |---|---|---|---|
 | A | [`study_A_identifiability.py`](study_A_identifiability.py) | Main **Fig 2**; Supp **Fig S1a–b** | load-bearing |
-| B | [`study_B_norman_benchmark.py`](study_B_norman_benchmark.py) | Main **Fig 9a**; Supp **Fig S2a** | load-bearing |
+| B | [`study_B_norman_benchmark.py`](study_B_norman_benchmark.py) | Main **Fig 9a** | load-bearing |
 | C | [`study_C_grand_benchmark.py`](study_C_grand_benchmark.py) | Supp **Fig S1c** (contract matrix) | load-bearing |
 | D | [`study_D_obstruction_hierarchy.py`](study_D_obstruction_hierarchy.py) | Supp **Fig S1d** | load-bearing |
-| F | [`study_F_synergy.py`](study_F_synergy.py) | Main **Fig 9b**; Supp **Fig S2b** | load-bearing |
+| F | [`study_F_synergy.py`](study_F_synergy.py) | Main **Fig 9b** | load-bearing |
 | G | [`study_G_esm.py`](study_G_esm.py) | ESM-2 constraint ↔ conservation (support for **Figs 11–12**) | load-bearing |
 | H, H2, I, J | `study_H*.py`, `study_I*.py`, `study_J*.py` | Supp **Fig S1e–f** + editability material | **exploratory** |
 | K, L | [`unrun_scaffolds/`](unrun_scaffolds/) | — | **not run** (see [`unrun_scaffolds/NOT_RUN.md`](unrun_scaffolds/NOT_RUN.md)) |

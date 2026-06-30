@@ -10,6 +10,11 @@ authors:
 version: 1.0.0
 date-released: "2026-06-30"
 license: MIT
+doi: "10.5281/zenodo.21068832"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21068832"
+    description: "Concept DOI (resolves to the latest archived version on Zenodo)."
 repository-code: "https://github.com/asediya/crispr-omics-identifiability-review"
 keywords:
   - CRISPR perturbation

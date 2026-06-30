@@ -1,0 +1,39 @@
+{
+ "n_combos": 131,
+ "synergy_mean": 0.5536071151684173,
+ "synergy_median": 0.4430699577426937,
+ "frac_additive_explained(<0.25)": 0.0,
+ "frac_synergistic(>0.5)": 0.3969465648854962,
+ "per_method_r_by_synergy_tercile": {
+  "Additive": {
+   "low-synergy": 0.936233924302648,
+   "mid-synergy": 0.9021247443040475,
+   "high-synergy": 0.8399690872187393,
+   "overall": 0.893179024191606
+  },
+  "Linear (ridge)": {
+   "low-synergy": 0.9362339243142453,
+   "mid-synergy": 0.9021247442818765,
+   "high-synergy": 0.8399690869967873,
+   "overall": 0.8931790241152002
+  },
+  "Random forest": {
+   "low-synergy": 0.9333599340204475,
+   "mid-synergy": 0.8922110113277614,
+   "high-synergy": 0.8195271125549364,
+   "overall": 0.8821739498868966
+  },
+  "MLP (deep)": {
+   "low-synergy": 0.6403022972995657,
+   "mid-synergy": 0.580881592515194,
+   "high-synergy": 0.5116720157090673,
+   "overall": 0.5781220444835062
+  }
+ },
+ "corr_synergy_vs_predErr": {
+  "Additive": 0.5729049029423007,
+  "Linear (ridge)": 0.5729049037579982,
+  "Random forest": 0.6361684250676723,
+  "MLP (deep)": 0.29822210860241144
+ }
+}

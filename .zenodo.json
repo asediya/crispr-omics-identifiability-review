@@ -1,0 +1,24 @@
+{
+  "title": "Reproducible computational vignettes for the CRISPR-perturbation multi-omics identifiability review",
+  "description": "Code and result files that regenerate the illustrative computational analyses in the review 'When can CRISPR-perturbation multi-omics support a causal claim? A method-selection framework for livestock functional genomics' (V. Asediya, submitted to Briefings in Bioinformatics). All analyses run on synthetic or public data; no new experimental data were generated.",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Asediya, Varunkumar",
+      "orcid": "0000-0002-9402-0349",
+      "affiliation": "Institute of Veterinary Medicine, Nicolaus Copernicus University in Torun, Poland"
+    }
+  ],
+  "keywords": [
+    "CRISPR perturbation",
+    "causal inference",
+    "causal discovery",
+    "multi-omics integration",
+    "single-cell CRISPR screens",
+    "Perturb-seq",
+    "livestock functional genomics",
+    "reproducibility"
+  ]
+}

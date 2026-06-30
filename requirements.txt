@@ -1,0 +1,24 @@
+# Core
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
+
+# Causal discovery
+causal-learn
+gcastle
+lingam
+
+# Single-cell / Perturb-seq data handling (Norman 2019)
+anndata
+scanpy
+
+# Protein language model / structure (Studies G, J)
+torch
+fair-esm
+
+# Notes:
+# - Pinned versions were not recorded for the submission run; install latest compatible
+#   releases, or pin to your environment for an exact reproduction.
+# - ESMFold/ESM Atlas predictions (Figs 11-12) used the public ESM Atlas / fair-esm weights.

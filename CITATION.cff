@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the article and the software archive."
+title: "Reproducible computational vignettes for the CRISPR-perturbation multi-omics identifiability review"
+type: software
+authors:
+  - family-names: Asediya
+    given-names: Varunkumar
+    orcid: "https://orcid.org/0000-0002-9402-0349"
+    affiliation: "Institute of Veterinary Medicine, Nicolaus Copernicus University in Toruń, Poland"
+version: 1.0.0
+date-released: "2026-06-30"
+license: MIT
+repository-code: "https://github.com/asediya/crispr-omics-identifiability-review"
+keywords:
+  - CRISPR perturbation
+  - causal inference
+  - causal discovery
+  - multi-omics integration
+  - Perturb-seq
+  - livestock functional genomics
+  - reproducibility
+preferred-citation:
+  type: article
+  title: "When can CRISPR-perturbation multi-omics support a causal claim? A method-selection framework for livestock functional genomics"
+  authors:
+    - family-names: Asediya
+      given-names: Varunkumar
+      orcid: "https://orcid.org/0000-0002-9402-0349"
+  journal: "Briefings in Bioinformatics"
+  year: 2026
+  notes: "Under review."

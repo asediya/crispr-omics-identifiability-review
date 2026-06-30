@@ -1,0 +1,20 @@
+# Large / public datasets — fetch from primary source, do not commit
+*.h5ad
+*.npz
+*.h5
+data/
+norman2019*
+
+# Integrity: machine-written result JSONs for analyses NOT run for this paper
+study_K_metabenchmark.json
+study_L_foundation_audit.json
+# Large regenerable atlas
+study_H_atlas.json
+
+# Python / env
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store

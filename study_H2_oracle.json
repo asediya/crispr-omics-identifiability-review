@@ -1,0 +1,44 @@
+{
+ "n_cells": 31172,
+ "features": [
+  "n",
+  "deg",
+  "ns",
+  "sample_feature_ratio",
+  "varsortability",
+  "non_gaussianity",
+  "mean_abs_corr"
+ ],
+ "classes": [
+  "DirectLiNGAM",
+  "GES",
+  "PC"
+ ],
+ "best_algo_distribution": {
+  "DirectLiNGAM": 16641,
+  "GES": 7693,
+  "PC": 6838
+ },
+ "oracle_accuracy_cv": [
+  0.6184596280898964,
+  0.12954545604433687
+ ],
+ "majority_baseline_cv": [
+  0.49372425719617113,
+  0.29744409470023736
+ ],
+ "feature_importance": {
+  "n": 0.0486,
+  "deg": 0.0379,
+  "ns": 0.0167,
+  "sample_feature_ratio": 0.0349,
+  "varsortability": 0.1672,
+  "non_gaussianity": 0.4521,
+  "mean_abs_corr": 0.2427
+ },
+ "per_algo_f1_regression_r2": {
+  "DirectLiNGAM": -2.5208682979403534,
+  "GES": 0.02712870547721047,
+  "PC": 0.23003904109785886
+ }
+}

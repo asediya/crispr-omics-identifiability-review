@@ -1,0 +1,49 @@
+{
+ "L1_redundancy": {
+  "single_KO_effect": [
+   0.084632375,
+   0.004363836684544346
+  ],
+  "family_KO_effect": [
+   0.5844095,
+   0.007589873829649608
+  ]
+ },
+ "L2_faithfulness": {
+  "obs_XY_assoc": [
+   0.011373388313760478,
+   0.00851413424481707
+  ],
+  "edge_detected_obs_rate": [
+   0.0,
+   0.0
+  ],
+  "partial_X_effect_controlling_Z": [
+   1.0002572298538779,
+   0.014777413679098244
+  ],
+  "edge_detected_remedy_rate": [
+   1.0,
+   0.0
+  ]
+ },
+ "L3_state": {
+  "bulk_effect": [
+   0.3003536454278218,
+   0.017393417531710437
+  ],
+  "within_state_effect": [
+   1.9995511739555987,
+   0.016563444030192467
+  ],
+  "detected_bulk_rate": [
+   0.0,
+   0.0
+  ],
+  "detected_within_rate": [
+   1.0,
+   0.0
+  ]
+ },
+ "n_seeds": 2000
+}

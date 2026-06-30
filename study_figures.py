@@ -67,7 +67,7 @@ ax.set_xticks(xa); ax.set_xticklabels(levels,fontsize=8.5); ax.set_ylabel("detec
 ax.legend(frameon=False,fontsize=8)
 ax.set_title("(d) Each obstruction blocks the naive method;\nits minimal design discharges it",fontsize=10.5,fontweight="bold",color=NAVY,loc="left")
 for s in ["top","right"]: ax.spines[s].set_visible(False)
-fig.suptitle("Empirical validation of the identifiability framework (original analyses)",fontsize=13,fontweight="bold",color=NAVY,x=0.02,ha="left")
+fig.suptitle("Empirical illustration of the identifiability framework (illustrative reproductions)",fontsize=13,fontweight="bold",color=NAVY,x=0.02,ha="left")
 fig.savefig("media/study_validation_causal.png",dpi=600,bbox_inches="tight",facecolor="white")
 fig.savefig("media/study_validation_causal.pdf",bbox_inches="tight",facecolor="white"); plt.close(fig)
 

@@ -6,7 +6,7 @@
 
 Code and result files that regenerate the **illustrative computational analyses** in the review:
 
-> Asediya, V. **When can CRISPR-perturbation multi-omics support a causal claim? A method-selection framework for livestock functional genomics.** (Under review, *Briefings in Bioinformatics*.)
+> Asediya, V. **When does a CRISPR-perturbation result support a causal claim about a farm-animal trait? An audit of the verified editing record and a framework for method selection.** (Manuscript, 2026.)
 
 All analyses run on **synthetic or public data; no new experimental data were generated.**
 
@@ -85,7 +85,7 @@ The Norman et al. (2019) combinatorial Perturb-seq dataset is **public and large
 ## Citation
 If you use this code, please cite the article and the software archive (a `CITATION.cff` is included, so GitHub's *"Cite this repository"* button works):
 
-> Asediya, V. *When can CRISPR-perturbation multi-omics support a causal claim? A method-selection framework for livestock functional genomics.* (Under review, *Briefings in Bioinformatics*.)
+> Asediya, V. *When does a CRISPR-perturbation result support a causal claim about a farm-animal trait? An audit of the verified editing record and a framework for method selection.* (Manuscript, 2026.)
 
 The software archive carries a Zenodo DOI (badge above); the article DOI will be added on publication.
 

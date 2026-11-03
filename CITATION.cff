@@ -25,12 +25,10 @@ keywords:
   - livestock functional genomics
   - reproducibility
 preferred-citation:
-  type: article
-  title: "When can CRISPR-perturbation multi-omics support a causal claim? A method-selection framework for livestock functional genomics"
+  type: manuscript
+  title: "When does a CRISPR-perturbation result support a causal claim about a farm-animal trait? An audit of the verified editing record and a framework for method selection"
   authors:
     - family-names: Asediya
       given-names: Varunkumar
       orcid: "https://orcid.org/0000-0002-9402-0349"
-  journal: "Briefings in Bioinformatics"
   year: 2026
-  notes: "Under review."

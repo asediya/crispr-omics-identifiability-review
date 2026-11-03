@@ -1,6 +1,6 @@
 {
   "title": "Reproducible computational vignettes for the CRISPR-perturbation multi-omics identifiability review",
-  "description": "Code and result files that regenerate the illustrative computational analyses in the review 'When can CRISPR-perturbation multi-omics support a causal claim? A method-selection framework for livestock functional genomics' (V. Asediya, submitted to Briefings in Bioinformatics). All analyses run on synthetic or public data; no new experimental data were generated.",
+  "description": "Code and result files that regenerate the illustrative computational analyses in the review 'When does a CRISPR-perturbation result support a causal claim about a farm-animal trait? An audit of the verified editing record and a framework for method selection' (V. Asediya, 2026). All analyses run on synthetic or public data; no new experimental data were generated.",
   "upload_type": "software",
   "access_right": "open",
   "license": "MIT",
